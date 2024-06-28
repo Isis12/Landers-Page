@@ -1,0 +1,5 @@
+rgba(255, 255, 255, 0.3);
+url("/img/main/main_banner.jpg") center bottom no-repeat rgb(208, 1, 32)
+#CF0021
+#4d4d4d
+#ff5001
